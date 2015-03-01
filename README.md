@@ -1,4 +1,7 @@
 Pacman
 ======
 
-Pacman mini project
+Pacman mini project(btech)
+
+Using AI specifically minmax algorithm of planning, pacman agent completes the
+game.
